@@ -5,8 +5,8 @@ This project is an assignment of Data science course
 
 ### Prepare environment:
 
-1 - Clone this repositiory
-2 - Use an IDE which can run Python 3 to run file nguyen_nguyen_grade_the_exams.py
+1. Clone this repositiory
+2. Use an IDE which can run Python 3 to run file nguyen_nguyen_grade_the_exams.py
 
 ### Application rules:
 
@@ -25,3 +25,5 @@ This project is an assignment of Data science course
 * Folder `Graded` contains files of classes, which contains student IDs and their total grades
 * Application write files save in `Greaded` folder
 
+## GitHub link:
+[Nguyen Nguyen](https://github.com/nguyennguyen0110/Project-Test-Grade-Calculator)
